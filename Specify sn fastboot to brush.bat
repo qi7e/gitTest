@@ -1,4 +1,4 @@
-
+@echo off
 setlocal enabledelayedexpansion
 
 if exist update_allpkg.bat (
