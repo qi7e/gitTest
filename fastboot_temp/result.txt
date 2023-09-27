@@ -1,0 +1,10 @@
+update_allpkg.bat
+".\update_allpkg_xxxxxxx.bat"
+.\fastboot_custpkg\update_custpkg.bat
+".\fastboot_custpkg\update_custpkg_xxxxxxx.bat"
+.\fastboot_preloadpkg\update_preloadpkg.bat
+".\fastboot_preloadpkg\update_preloadpkg_xxxxxxx.bat"
+..\fastboot_basepkg\update_basepkg.bat
+"..\fastboot_basepkg\update_basepkg_xxxxxxx.bat"
+.\fastboot_basepkg\update_basepkg.bat
+".\fastboot_basepkg\update_basepkg_xxxxxxx.bat"
